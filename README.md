@@ -1,4 +1,4 @@
-# **Medical_Insurance_Premium_Project**
+# **Medical Insurance Premium Project**
  Building a model to predict the yearly medical premiums
 
 # **Overview:**
