@@ -36,3 +36,7 @@ Health and medical insurance provide financial assistance to policyholders in ca
 
 
 ![image](https://user-images.githubusercontent.com/117705408/235576792-feaf08f6-b65f-468a-bbf3-22d4ff3a46bb.png)
+
+# **XGBRF Regressor**
+
+![image](https://user-images.githubusercontent.com/117705408/235576889-0603fa85-eca7-4111-92da-ea7a19560e48.png)
