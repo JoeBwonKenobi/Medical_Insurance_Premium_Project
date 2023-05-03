@@ -5,6 +5,11 @@
 
 Health and medical insurance provide financial assistance to policyholders in case of medical emergencies by covering their expenses. An accurate determination of the insurance premium, based on factors such as age, health history, and profession, is crucial for building strong customer relationships, customizing health insurance plans, reducing risks, and making better decisions in risk management. This project uses data from an insurance company and creates a model to predict the premiums to help make an informed descision.
 
+# **Data Source:**
+https://www.kaggle.com/datasets/tejashvi14/medical-insurance-premium-prediction?resource=download
+
+# **Methods**
+
 # **Exploratory Visualizations**
 
 # **Distribution of Premium Prices**
@@ -32,6 +37,7 @@ Health and medical insurance provide financial assistance to policyholders in ca
 
 # **Predictive Models**
 
+
 ## **Random Forest Regressor**
 
 
@@ -40,3 +46,9 @@ Health and medical insurance provide financial assistance to policyholders in ca
 # **XGBRF Regressor**
 
 ![image](https://user-images.githubusercontent.com/117705408/235576889-0603fa85-eca7-4111-92da-ea7a19560e48.png)
+
+# **Model Performance**
+
+# **Recommendations**
+
+# **Limitations & Next steps**
