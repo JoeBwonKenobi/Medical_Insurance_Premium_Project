@@ -1,5 +1,8 @@
 # **Medical Insurance Premium Project**
- Building a model to predict the yearly medical premiums
+
+![image](https://github.com/JoeBwonKenobi/Medical_Insurance_Premium_Project/assets/117705408/b376a9cc-3ca7-462b-a1ff-0c95307d4207)
+
+Building a machine leraning model to predict yearly medical insurance premiums.
 
 # **Overview:**
 
